@@ -4,6 +4,10 @@ The MVP will be the following: a small app which allows a user to swipe left or 
 
 Tl;dr, dog tinder.
 
+<img src="dachshund-winking.jpg"
+     alt="dachshund winking"
+     width=300px/>
+
 # Things Which Need to Be Done for 1.0.
 
 ## Current UML Diagrams
@@ -40,9 +44,9 @@ Up-to-date image is [here](https://drive.google.com/file/d/1ms-_3d8jwr2HgldPu0LX
 
 # I'm Developing on this, What Do I Need to Do?
 
-Clone or fork the repo. Then...
+If you want to see our current issues, please email jimmy.c.salvatore at gmail dot com for access!  (Mostly because I don't know how to do privacy settings in Trello...)
 
-## Python Side:
+## Python Side Dev:
 
 **Note: To make things easier, please allow your IDE to format with standard Black options on save.**
 
@@ -55,6 +59,10 @@ pre-commit install
 
 This will install the precommit linter, Black. When you commit, it will fix any files which needed linting. This will require you to add the newly linted files and commit again --- note, you may use the previous commit, since that commit will have failed. (See `git logs --oneline` if you don't know what I mean here.)
 
-## Node Side:
+## Node Side Dev:
 
 Idk lol
+
+## General Dev:
+
+- Don't be a jerk.
