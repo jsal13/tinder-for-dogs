@@ -10,7 +10,12 @@ Tl;dr, dog tinder.
 
 # Things Which Need to Be Done for 1.0.
 
+## Current Dataset
+
+We're trimming down the Stanford Dog Dataset, available [here](http://vision.stanford.edu/aditya86/ImageNetDogs/)
+
 ## Current UML Diagrams
+
 Up-to-date image is [here](https://drive.google.com/file/d/1ms-_3d8jwr2HgldPu0LXKj6-48fXoz6r/view?usp=sharing).
 
 <img src="tinder-for-dogs.png"
@@ -45,7 +50,6 @@ Up-to-date image is [here](https://drive.google.com/file/d/1ms-_3d8jwr2HgldPu0LX
 # I'm Developing on this, What Do I Need to Do?
 
 Ticket board is [here in github projects](https://github.com/jsal13/tinder-for-dogs/projects/1).
-
 
 ## Python Side Dev:
 
