@@ -6,6 +6,13 @@ Tl;dr, dog tinder.
 
 # Things Which Need to Be Done for 1.0.
 
+## Current UML Diagrams
+Up-to-date image is [here](https://drive.google.com/file/d/1ms-_3d8jwr2HgldPu0LXKj6-48fXoz6r/view?usp=sharing).
+
+<img src="tinder-for-dogs.png"
+     alt="tinder-for-dogs UML"
+     width=500px />
+
 ### Machine Learning
 
 - [ ] Storage of many (5000?) dog pictures from common or uncommon breeds in some proportion.
