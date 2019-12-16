@@ -44,7 +44,8 @@ Up-to-date image is [here](https://drive.google.com/file/d/1ms-_3d8jwr2HgldPu0LX
 
 # I'm Developing on this, What Do I Need to Do?
 
-If you want to see our current issues, please email jimmy.c.salvatore at gmail dot com for access!  (Mostly because I don't know how to do privacy settings in Trello...)
+Ticket board is [here in github projects](https://github.com/jsal13/tinder-for-dogs/projects/1).
+
 
 ## Python Side Dev:
 
