@@ -49,7 +49,8 @@ Up-to-date image is [here](https://drive.google.com/file/d/1ms-_3d8jwr2HgldPu0LX
 
 # I'm Developing on this, What Do I Need to Do?
 
-Ticket board is [here in github projects](https://github.com/jsal13/tinder-for-dogs/projects/1).
+- Ticket board is [here in github projects](https://github.com/jsal13/tinder-for-dogs/projects/1).
+- We use [conventional commits whenever possible](https://www.conventionalcommits.org/en/v1.0.0-beta.2/). If you're not sure how to use these, ask!  It's pretty easy and very useful once you get going! 
 
 ## Python Side Dev:
 
@@ -71,3 +72,12 @@ Idk lol
 ## General Dev:
 
 - Don't be a jerk.
+- Pls like dogs.
+
+### Contribution Team
+
+Right now we don't have a NEWS or UPDATES file so we can't give credit there.  So here's a list of people helping out!  We appreciate you all, no matter the work done.  :')
+
+- jsal13 (useless)
+- Crazyglue (frontend-backend hero)
+- kelseight (dog photo expect)
