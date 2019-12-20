@@ -4,7 +4,7 @@ The MVP will be the following: a small app which allows a user to swipe left or 
 
 Tl;dr, dog tinder.
 
-<img src="dachshund-winking.jpg"
+<img src="./webapp/src/assets/dachshund-winking.jpg"
      alt="dachshund winking"
      width=300px/>
 
@@ -12,13 +12,13 @@ Tl;dr, dog tinder.
 
 ## Current Dataset
 
-We're trimming down the Stanford Dog Dataset, available [here](http://vision.stanford.edu/aditya86/ImageNetDogs/)
+We're trimming down the Stanford Dog Dataset, available [here](http://vision.stanford.edu/aditya86/ImageNetDogs/).
 
 ## Current UML Diagrams
 
 Up-to-date image is [here](https://drive.google.com/file/d/1ms-_3d8jwr2HgldPu0LXKj6-48fXoz6r/view?usp=sharing).
 
-<img src="tinder-for-dogs.png"
+<img src="./webapp/src/assets/tinder-for-dogs.png"
      alt="tinder-for-dogs UML"
      width=500px />
 
