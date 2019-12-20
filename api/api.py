@@ -12,7 +12,7 @@ dog_reqparse.add_argument("dog_type", type=str, help="Type of dog, full folder n
 
 @api.route("/dog")
 @api.expect(dog_reqparse)
-class FetchDog(Resource):
+class Dog(Resource):
     def get(self):
         args = dog_reqparse.parse_args()
         dog_type = args["dog_type"]
@@ -20,18 +20,18 @@ class FetchDog(Resource):
         return {"dog_type": dog_type}
 
 
-# Get arguments for /preference endpoint.
-user_reqparse = reqparse.RequestParser()
-user_reqparse.add_argument(
+# Get arguments for /user-preference endpoint.
+user_preference_reqparse = reqparse.RequestParser()
+user_preference_reqparse.add_argument(
     "placeholder", type=str, help="This will probably be something real maybe."
 )
 
 
-@api.route("/preference")
-@api.expect(user_reqparse)
-class FetchUserPreference(Resource):
+@api.route("/user-preference")
+@api.expect(user_preference_reqparse)
+class UserPreference(Resource):
     def get(self):
-        args = dog_reqparse.parse_args()
+        args = user_preference_reqparse.parse_args()
         placeholder = args["placeholder"]
 
         return {"placeholder": placeholder}
