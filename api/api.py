@@ -13,7 +13,7 @@ dog_reqparse.add_argument("dog_type", type=str, help="Type of dog, full folder n
 @api.route("/dog")
 @api.expect(dog_reqparse)
 class FetchDog(Resource):
-    def post(self):
+    def get(self):
         args = dog_reqparse.parse_args()
         dog_type = args["dog_type"]
 
