@@ -2,15 +2,11 @@
 
 ## Purpose
 
-Given a dog type (folder name, as in the Stanford Dog db), return a random picture of that dog type from S3.
+So far, getting metadata.
 
 ## Debugging and Testing
 
-To test this and get logs, go into this directory and run
-
-```bash
-python api.py
-```
+To test this and get logs, use `docker-compose up` in the dockerfiles directory.
 
 You should now be able to go to [http://localhost:5000](http://localhost:5000) to access the _Swagger_ documents.
 

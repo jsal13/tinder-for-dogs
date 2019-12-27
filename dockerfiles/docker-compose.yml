@@ -1,0 +1,27 @@
+version: "3"
+services:
+  mongodb:
+    image: "mongo:4.2.2"
+    ports:
+      - 27017:27017
+    environment:
+      - MONGO_INITDB_DATABASE=metadata
+
+  mongo_seed:
+    depends_on:
+      - "mongodb"
+    build:
+      context: ..
+      dockerfile: ./dockerfiles/Dockerfile.mongo_seed
+    command: /mongodb_seed_script.sh
+
+  api:
+    depends_on:
+      - "mongo_seed"
+    build:
+      context: ..
+      dockerfile: ./dockerfiles/Dockerfile.api
+    ports:
+      - 5000:5000
+    environment:
+      - MONGODB_LOCATION=mongodb://mongodb:27017/

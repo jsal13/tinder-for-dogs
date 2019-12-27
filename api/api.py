@@ -1,44 +1,49 @@
+import os
+import json
+
 from flask import Flask
 from flask_restplus import Resource, Api
 from flask_restplus import reqparse
 
+import pymongo
+from bson import json_util
 
+
+# TODO (James): what's best practice for hosting the client?
+# How do I always open a new client on each request?
+
+MONGODB_LOCATION = os.environ.get("MONGODB_LOCATION", "mongodb://localhost:27017/")
+DB_CLIENT = pymongo.MongoClient(MONGODB_LOCATION)
+DB_DATABASE = DB_CLIENT["metadata"]  # metadata is the db name.
+
+# Flask app start.
 app = Flask(__name__)
 api = Api(app)
 
-# Get arguments for /fetch-dog endpoint.
-dog_request_parser = reqparse.RequestParser()
-dog_request_parser.add_argument(
+# Get arguments for /dog endpoint.
+dog_metadata_request_parser = reqparse.RequestParser()
+dog_metadata_request_parser.add_argument(
     "dog_type", type=str, help="Type of dog, full folder name."
 )
 
 
-@api.route("/fetch-dog")
-@api.expect(dog_request_parser)
-class FetchDog(Resource):
+@api.route("/dog")
+@api.expect(dog_metadata_request_parser)
+class Dog(Resource):
     def post(self):
-        args = dog_request_parser.parse_args()
+        args = dog_metadata_request_parser.parse_args()
         dog_type = args["dog_type"]
 
-        return {"dog_type": dog_type}
+        # ObjectId needs to be parsed, then we return it to json for the user.
+        return json.loads(json_util.dumps(DB_DATABASE["dogs"].find({"Name": dog_type})))
 
 
-# Get arguments for /fetch-user-preference endpoint.
-user_preference_request_parser = reqparse.RequestParser()
-user_preference_request_parser.add_argument(
-    "dog_type", type=str, help="Type of dog, full folder name."
-)
-
-
-@api.route("/fetch-user-preference")
-@api.expect(user_preference_request_parser)
-class FetchUserPreference(Resource):
+# List all users for some reason
+@api.route("/users")
+class User(Resource):
     def get(self):
-        args = dog_request_parser.parse_args()
-        dog_type = args["dog_type"]
-
-        return {"dog_type": dog_type}
+        return DB_DATABASE["users"].find()
 
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=True, host="0.0.0.0")
