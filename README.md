@@ -25,8 +25,7 @@ Up-to-date image is [here](https://drive.google.com/file/d/1ms-_3d8jwr2HgldPu0LX
 ### Machine Learning
 
 - [ ] Storage of many (5000?) dog pictures from common or uncommon breeds in some proportion.
-- [ ] What features should be in the metadata for dog breeds?
-- [ ] Storage of metadata for dogbreeds.
+- [x] What initial features should be in the metadata for dog breeds?
 - [ ] Score adjustments for swiping left or right w/rt the metadata items (eg, swipe right on a happy dog with pointy nose gives +2 to happy or +2 to pointy nose or...?)
 - [ ] ML algorithm to figure out next dog.
 - [ ] ML algorith to give current "top 3" dogs for a user.
@@ -38,19 +37,26 @@ Up-to-date image is [here](https://drive.google.com/file/d/1ms-_3d8jwr2HgldPu0LX
 
 ### API Development
 
-- [ ] What does this do. What is it an api for. We probably will need it between the app and the db and the ml thing, but we need to figure out the software diagram here.
+- [x] API call for getting dog pics
+- [ ] API call for getting dog metadata
+- [x] API call for getting user data
+- [ ] API call for modifying user data
 
 ### Database Development
 
-- [ ] Choose structure for DB.
-- [ ] Create temp DB with docker-compose to test.
+- [x] Choose structure for dog metadata DB.
+- [x] Choose structure for user metadata DB.
+- [x] What metadata for dogs?
+- [ ] What metadata for users?
+- [x] Create temp DB with docker-compose to test.
 - [ ] How much data should be stored, how much should be transient?
 - [ ] How do we update user preferences in the db without putting a whole lot of info into it?
 
 # I'm Developing on this, What Do I Need to Do?
 
 - Ticket board is [here in github projects](https://github.com/jsal13/tinder-for-dogs/projects/1).
-- We use [conventional commits whenever possible](https://www.conventionalcommits.org/en/v1.0.0-beta.2/). If you're not sure how to use these, ask!  It's pretty easy and very useful once you get going! 
+- We use [conventional commits whenever possible](https://www.conventionalcommits.org/en/v1.0.0-beta.2/). If you're not sure how to use these, ask! It's pretty easy and very useful once you get going!
+- You will almost certainly need Docker and Docker-Compose. Google this and download it. It's a fun time!
 
 ## Python Side Dev:
 
@@ -76,8 +82,8 @@ Idk lol
 
 ### Contribution Team
 
-Right now we don't have a NEWS or UPDATES file so we can't give credit there.  So here's a list of people helping out!  We appreciate you all, no matter the work done.  :')
+Right now we don't have a NEWS or UPDATES file so we can't give credit there. So here's a list of people helping out! We appreciate you all, no matter the work done. :')
 
 - jsal13 (useless)
 - Crazyglue (frontend-backend hero)
-- kelseight (dog photo expect)
+- kelseight (dog photo expert)
