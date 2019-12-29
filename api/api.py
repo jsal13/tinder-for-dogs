@@ -50,7 +50,7 @@ class User(Resource):
 
 # List all users for some reason
 @api.route("/dogs")
-class User(Resource):
+class Dogs(Resource):
     def get(self):
         return json.loads(json_util.dumps(DB_DATABASE["dogs"].find()))
 
