@@ -25,3 +25,16 @@ services:
       - 5000:5000
     environment:
       - MONGODB_LOCATION=mongodb://mongodb:27017/
+
+  webapp:
+    depends_on:
+      - "api"
+    build:
+      context: ..
+      dockerfile: ./dockerfiles/Dockerfile.webapp
+    ports:
+      - 8080:8080
+    expose:
+      - "8080"
+    environment:
+      - NODE_ENV=development
