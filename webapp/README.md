@@ -7,7 +7,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm start
 ```
 
 ### Compiles and minifies for production
@@ -26,3 +26,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### Notes
 
 Initialized with vue-cli v4
+Use [font-awesome](https://fontawesome.com/icons?d=gallery&m=free) for icons
