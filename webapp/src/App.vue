@@ -1,24 +1,12 @@
 <template>
   <v-app id="sandbox">
-    <v-navigation-drawer
-      v-model="primaryDrawer.model"
-      :clipped="primaryDrawer.clipped"
-      :floating="primaryDrawer.floating"
+    <SideNavContent
       :mini-variant="primaryDrawer.mini"
-      :permanent="primaryDrawer.type === 'permanent'"
-      :temporary="primaryDrawer.type === 'temporary'"
-      app
-      overflow
-    >
-      <SideNavContent />
-    </v-navigation-drawer>
+      :model="primaryDrawer.model"
+    />
 
-    <v-app-bar
-      :clipped-left="primaryDrawer.clipped"
-      app
-    >
+    <v-app-bar app>
       <v-app-bar-nav-icon
-        v-if="primaryDrawer.type !== 'permanent'"
         @click.stop="primaryDrawer.model = !primaryDrawer.model"
       />
       <v-toolbar-title>Vuetify</v-toolbar-title>
@@ -32,7 +20,7 @@
         >
           <v-col cols="10">
             <div id="app">
-              <Home />
+              <router-view></router-view>
               <h1>{{ apiAddress }}</h1>
               <p>hi</p>
             </div>
@@ -57,43 +45,9 @@
                     cols="12"
                     md="6"
                   >
-                    <span>Drawer</span>
-                    <v-radio-group
-                      v-model="primaryDrawer.type"
-                      column
-                    >
-                      <v-radio
-                        v-for="drawer in drawers"
-                        :key="drawer"
-                        :label="drawer"
-                        :value="drawer.toLowerCase()"
-                        primary
-                      />
-                    </v-radio-group>
-                    <v-switch
-                      v-model="primaryDrawer.clipped"
-                      label="Clipped"
-                      primary
-                    />
-                    <v-switch
-                      v-model="primaryDrawer.floating"
-                      label="Floating"
-                      primary
-                    />
                     <v-switch
                       v-model="primaryDrawer.mini"
                       label="Mini"
-                      primary
-                    />
-                  </v-col>
-                  <v-col
-                    cols="12"
-                    md="6"
-                  >
-                    <span>Footer</span>
-                    <v-switch
-                      v-model="footer.inset"
-                      label="Inset"
                       primary
                     />
                   </v-col>
@@ -114,17 +68,16 @@
     </v-content>
 
     <v-footer
-      :inset="footer.inset"
+      :inset="true"
       app
     >
-      <span class="px-4">&copy; {{ new Date().getFullYear() }}</span>
+      <span class="px-4">Dog Tinder &copy; {{ new Date().getFullYear() }}</span>
     </v-footer>
   </v-app>
 </template>
 
 <script>
 import axios from "axios";
-import Home from "./components/Home";
 import SideNavContent from './components/SideNavContent';
 
 export default {
@@ -139,13 +92,9 @@ export default {
         floating: false,
         mini: false,
       },
-      footer: {
-        inset: false,
-      },
     };
   },
   components: {
-    Home,
     SideNavContent
   },
   mounted() {
