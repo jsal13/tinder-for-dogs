@@ -1,0 +1,10 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Resources:
+  TestLambda:
+    Type: "Custom::TestLambda"
+    Properties:
+      ServiceToken: "arn:aws:lambda:us-east-1:626034116433:function:testfunction"
+      Data: "CoolDude"
+Outputs:
+  Result:
+    Value: !GetAtt TestLambda.Result
