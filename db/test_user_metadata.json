@@ -1,6 +1,6 @@
 [
   {
-    "_id": 1,
+    "id_": 1,
     "Name": "Billy Krystal",
     "Adaptability": 3,
     "Apartment_Friendly": 3,
@@ -20,7 +20,7 @@
     "Size": "Large"
   },
   {
-    "_id": 2,
+    "id_": 2,
     "Name": "Mr. Labrador Retriever",
     "Adaptability": 5,
     "Apartment_Friendly": 5,
@@ -40,7 +40,7 @@
     "Size": "Medium"
   },
   {
-    "_id": 3,
+    "id_": 3,
     "Name": "Mr. Labrador Retriever Clone",
     "Adaptability": 5,
     "Apartment_Friendly": 5,

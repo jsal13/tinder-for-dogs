@@ -16,7 +16,8 @@
     "Stranger_Friendly": 5,
     "Trainability": 5,
     "Watchdog_Ability": 3,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 0
   },
   {
     "Name": "German_Shepherd",
@@ -35,7 +36,8 @@
     "Stranger_Friendly": 1,
     "Trainability": 5,
     "Watchdog_Ability": 5,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 1
   },
   {
     "Name": "Golden_Retriever",
@@ -54,7 +56,8 @@
     "Stranger_Friendly": 5,
     "Trainability": 5,
     "Watchdog_Ability": 3,
-    "Size": null
+    "Size": -999,
+    "_id": 2
   },
   {
     "Name": "French_Bulldog",
@@ -73,7 +76,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 3
   },
   {
     "Name": "Bulldog",
@@ -92,7 +96,8 @@
     "Stranger_Friendly": 5,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 4
   },
   {
     "Name": "Beagle",
@@ -111,7 +116,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 2,
     "Watchdog_Ability": 1,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 5
   },
   {
     "Name": "Poodle",
@@ -130,7 +136,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 5,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 6
   },
   {
     "Name": "Rottweiler",
@@ -149,7 +156,8 @@
     "Stranger_Friendly": 1,
     "Trainability": 4,
     "Watchdog_Ability": 5,
-    "Size": null
+    "Size": -999,
+    "_id": 7
   },
   {
     "Name": "German_Shorthaired_Pointer",
@@ -168,7 +176,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 5,
     "Watchdog_Ability": 3,
-    "Size": null
+    "Size": -999,
+    "_id": 8
   },
   {
     "Name": "Yorkshire_Terrier",
@@ -187,7 +196,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 9
   },
   {
     "Name": "Boxer",
@@ -206,7 +216,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 10
   },
   {
     "Name": "Dachshund",
@@ -225,7 +236,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": null
+    "Size": -999,
+    "_id": 11
   },
   {
     "Name": "Pembroke_Welsh_Corgi",
@@ -244,7 +256,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 5,
     "Watchdog_Ability": 3,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 12
   },
   {
     "Name": "Siberian_Husky",
@@ -263,7 +276,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 2,
     "Watchdog_Ability": 1,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 13
   },
   {
     "Name": "Australian_Shepherd",
@@ -282,7 +296,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 5,
     "Watchdog_Ability": 5,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 14
   },
   {
     "Name": "Great_Dane",
@@ -301,7 +316,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": "Giant"
+    "Size": 4,
+    "_id": 15
   },
   {
     "Name": "Doberman_Pinscher",
@@ -320,7 +336,8 @@
     "Stranger_Friendly": 1,
     "Trainability": 5,
     "Watchdog_Ability": 5,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 16
   },
   {
     "Name": "Cavalier_King_Charles_Spaniel",
@@ -339,7 +356,8 @@
     "Stranger_Friendly": 5,
     "Trainability": 4,
     "Watchdog_Ability": 2,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 17
   },
   {
     "Name": "Miniature_Schnauzer",
@@ -358,7 +376,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 5,
     "Watchdog_Ability": 5,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 18
   },
   {
     "Name": "Shih_Tzu",
@@ -377,7 +396,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 19
   },
   {
     "Name": "Boston_Terrier",
@@ -396,7 +416,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 20
   },
   {
     "Name": "Bernese_Mountain_Dog",
@@ -415,7 +436,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 5,
     "Watchdog_Ability": 5,
-    "Size": null
+    "Size": -999,
+    "_id": 21
   },
   {
     "Name": "Pomeranian",
@@ -434,7 +456,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 22
   },
   {
     "Name": "Havanese",
@@ -453,7 +476,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 5,
     "Watchdog_Ability": 3,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 23
   },
   {
     "Name": "Shetland_Sheepdog",
@@ -472,7 +496,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 24
   },
   {
     "Name": "Brittany",
@@ -491,7 +516,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 5,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 25
   },
   {
     "Name": "English_Springer_Spaniel",
@@ -510,7 +536,8 @@
     "Stranger_Friendly": 5,
     "Trainability": 5,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 26
   },
   {
     "Name": "Pug",
@@ -529,7 +556,8 @@
     "Stranger_Friendly": 5,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 27
   },
   {
     "Name": "Mastiff",
@@ -548,7 +576,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": "Giant"
+    "Size": 4,
+    "_id": 28
   },
   {
     "Name": "American_Cocker_Spaniel",
@@ -567,7 +596,8 @@
     "Stranger_Friendly": 5,
     "Trainability": 5,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 29
   },
   {
     "Name": "Vizsla",
@@ -586,7 +616,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 30
   },
   {
     "Name": "Cane_Corso",
@@ -605,7 +636,8 @@
     "Stranger_Friendly": 1,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 31
   },
   {
     "Name": "Chihuahua",
@@ -624,7 +656,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 32
   },
   {
     "Name": "Miniature_American_Shepherd",
@@ -643,7 +676,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 5,
     "Watchdog_Ability": 3,
-    "Size": null
+    "Size": -999,
+    "_id": 33
   },
   {
     "Name": "Border_Collie",
@@ -662,7 +696,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 5,
     "Watchdog_Ability": 5,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 34
   },
   {
     "Name": "Weimaraner",
@@ -681,7 +716,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 5,
     "Watchdog_Ability": 3,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 35
   },
   {
     "Name": "Maltese",
@@ -700,7 +736,8 @@
     "Stranger_Friendly": 5,
     "Trainability": 2,
     "Watchdog_Ability": 3,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 36
   },
   {
     "Name": "Collie",
@@ -719,7 +756,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 5,
     "Watchdog_Ability": 5,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 37
   },
   {
     "Name": "Basset_Hound",
@@ -738,7 +776,8 @@
     "Stranger_Friendly": 5,
     "Trainability": 3,
     "Watchdog_Ability": 1,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 38
   },
   {
     "Name": "Newfoundland",
@@ -757,7 +796,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": "Giant"
+    "Size": 4,
+    "_id": 39
   },
   {
     "Name": "Rhodesian_Ridgeback",
@@ -776,7 +816,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 40
   },
   {
     "Name": "West_Highland_White_Terrier",
@@ -795,7 +836,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 41
   },
   {
     "Name": "Belgian_Malinois",
@@ -814,7 +856,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 5,
     "Watchdog_Ability": 5,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 42
   },
   {
     "Name": "Shiba_Inu",
@@ -833,7 +876,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 4,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 43
   },
   {
     "Name": "Chesapeake_Bay_Retriever",
@@ -852,7 +896,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 44
   },
   {
     "Name": "Bichon_Frise",
@@ -871,7 +916,8 @@
     "Stranger_Friendly": 5,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 45
   },
   {
     "Name": "Akita",
@@ -890,7 +936,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 4,
     "Watchdog_Ability": 5,
-    "Size": null
+    "Size": -999,
+    "_id": 46
   },
   {
     "Name": "St_Bernard ",
@@ -909,7 +956,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 2,
     "Watchdog_Ability": 3,
-    "Size": null
+    "Size": -999,
+    "_id": 47
   },
   {
     "Name": "Bloodhound",
@@ -928,7 +976,8 @@
     "Stranger_Friendly": 5,
     "Trainability": 2,
     "Watchdog_Ability": 1,
-    "Size": null
+    "Size": -999,
+    "_id": 48
   },
   {
     "Name": "Portuguese_Water_Dog",
@@ -947,7 +996,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 49
   },
   {
     "Name": "Bullmastiff",
@@ -966,7 +1016,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": "Giant"
+    "Size": 4,
+    "_id": 50
   },
   {
     "Name": "English_Cocker_Spaniel",
@@ -985,7 +1036,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 5,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 51
   },
   {
     "Name": "Soft_Coated_Wheaten_Terrier",
@@ -1004,7 +1056,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 4,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 52
   },
   {
     "Name": "Papillon",
@@ -1023,7 +1076,8 @@
     "Stranger_Friendly": 5,
     "Trainability": 5,
     "Watchdog_Ability": 3,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 53
   },
   {
     "Name": "Australian_Cattle_Dog",
@@ -1042,7 +1096,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 5,
     "Watchdog_Ability": 5,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 54
   },
   {
     "Name": "Dalmatian",
@@ -1061,7 +1116,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 4,
     "Watchdog_Ability": 3,
-    "Size": null
+    "Size": -999,
+    "_id": 55
   },
   {
     "Name": "Scottish_Terrier",
@@ -1080,7 +1136,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 56
   },
   {
     "Name": "Alaskan_Malamute",
@@ -1099,7 +1156,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 4,
     "Watchdog_Ability": 5,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 57
   },
   {
     "Name": "Samoyed",
@@ -1118,7 +1176,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 58
   },
   {
     "Name": "Airedale_Terrier",
@@ -1137,7 +1196,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 59
   },
   {
     "Name": "Whippet",
@@ -1156,7 +1216,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 60
   },
   {
     "Name": "Bull_Terrier",
@@ -1175,7 +1236,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 2,
     "Watchdog_Ability": 5,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 61
   },
   {
     "Name": "German_Wirehaired_Pointer",
@@ -1194,7 +1256,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 4,
     "Watchdog_Ability": 5,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 62
   },
   {
     "Name": "Miniature_Shar_Pei",
@@ -1213,7 +1276,8 @@
     "Stranger_Friendly": 1,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 63
   },
   {
     "Name": "Wirehaired_Pointing_Griffon",
@@ -1232,7 +1296,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 4,
     "Watchdog_Ability": 5,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 64
   },
   {
     "Name": "Great_Pyrenees",
@@ -1251,7 +1316,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 2,
     "Watchdog_Ability": 5,
-    "Size": "Giant"
+    "Size": 4,
+    "_id": 65
   },
   {
     "Name": "Dogue_de_Bordeaux",
@@ -1270,7 +1336,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 4,
     "Watchdog_Ability": 5,
-    "Size": "Giant"
+    "Size": 4,
+    "_id": 66
   },
   {
     "Name": "Cardigan_Welsh_Corgi",
@@ -1289,7 +1356,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 5,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 67
   },
   {
     "Name": "Cairn_Terrier",
@@ -1308,7 +1376,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 68
   },
   {
     "Name": "Miniature_Pinscher",
@@ -1327,7 +1396,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 4,
     "Watchdog_Ability": 3,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 69
   },
   {
     "Name": "Lhasa_Apso",
@@ -1346,7 +1416,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 70
   },
   {
     "Name": "Old_English_Sheepdog",
@@ -1365,7 +1436,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 71
   },
   {
     "Name": "Italian_Greyhound",
@@ -1384,7 +1456,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 72
   },
   {
     "Name": "Greater_Swiss_Mountain_Dog",
@@ -1403,7 +1476,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 4,
     "Watchdog_Ability": 5,
-    "Size": "Giant"
+    "Size": 4,
+    "_id": 73
   },
   {
     "Name": "Chow_Chow",
@@ -1422,7 +1496,8 @@
     "Stranger_Friendly": 1,
     "Trainability": 2,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 74
   },
   {
     "Name": "Irish_Wolfhound",
@@ -1441,7 +1516,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 4,
     "Watchdog_Ability": 3,
-    "Size": "Giant"
+    "Size": 4,
+    "_id": 75
   },
   {
     "Name": "Irish_Setter",
@@ -1460,7 +1536,8 @@
     "Stranger_Friendly": 5,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 76
   },
   {
     "Name": "Giant_Schnauzer",
@@ -1479,7 +1556,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 4,
     "Watchdog_Ability": 5,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 77
   },
   {
     "Name": "Chinese_Crested",
@@ -1498,7 +1576,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 4,
     "Watchdog_Ability": 2,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 78
   },
   {
     "Name": "Staffordshire_Bull_Terrier",
@@ -1517,7 +1596,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 79
   },
   {
     "Name": "Coton_De_Tulear",
@@ -1536,7 +1616,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 5,
     "Watchdog_Ability": 3,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 80
   },
   {
     "Name": "Jack_Russell_Terrier",
@@ -1555,7 +1636,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 5,
     "Watchdog_Ability": 4,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 81
   },
   {
     "Name": "Nova_Scotia_Duck_Tolling_Retriever",
@@ -1574,7 +1656,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 5,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 82
   },
   {
     "Name": "Bouvier_des_Flandres",
@@ -1593,7 +1676,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 4,
     "Watchdog_Ability": 5,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 83
   },
   {
     "Name": "American_Staffordshire_Terrier",
@@ -1612,7 +1696,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 4,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 84
   },
   {
     "Name": "Rat_Terrier",
@@ -1631,7 +1716,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 5,
     "Watchdog_Ability": 3,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 85
   },
   {
     "Name": "Basenji",
@@ -1650,7 +1736,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 2,
     "Watchdog_Ability": 5,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 86
   },
   {
     "Name": "Border_Terrier",
@@ -1669,7 +1756,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 4,
     "Watchdog_Ability": 4,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 87
   },
   {
     "Name": "Standard_Schnauzer",
@@ -1688,7 +1776,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 5,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 88
   },
   {
     "Name": "Anatolian_Shepherd_Dog",
@@ -1707,7 +1796,8 @@
     "Stranger_Friendly": 1,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": "Giant"
+    "Size": 4,
+    "_id": 89
   },
   {
     "Name": "Flat-Coated_Retriever",
@@ -1726,7 +1816,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 5,
     "Watchdog_Ability": 5,
-    "Size": null
+    "Size": -999,
+    "_id": 90
   },
   {
     "Name": "Pekingese",
@@ -1745,7 +1836,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 2,
     "Watchdog_Ability": 3,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 91
   },
   {
     "Name": "Leonberger",
@@ -1763,7 +1855,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 4,
     "Watchdog_Ability": 5,
-    "Size": "Giant"
+    "Size": 4,
+    "_id": 92
   },
   {
     "Name": "English_Setter",
@@ -1782,7 +1875,8 @@
     "Stranger_Friendly": 5,
     "Trainability": 4,
     "Watchdog_Ability": 3,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 93
   },
   {
     "Name": "Keeshond",
@@ -1801,7 +1895,8 @@
     "Stranger_Friendly": 5,
     "Trainability": 5,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 94
   },
   {
     "Name": "Tibetan_Terrier",
@@ -1820,7 +1915,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 95
   },
   {
     "Name": "Norwegian_Elkhound",
@@ -1839,7 +1935,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 96
   },
   {
     "Name": "Brussels_Griffon",
@@ -1858,7 +1955,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 1,
     "Watchdog_Ability": 3,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 97
   },
   {
     "Name": "Lagotto_Romagnolo",
@@ -1877,7 +1975,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 4,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 98
   },
   {
     "Name": "Boykin_Spaniel",
@@ -1896,7 +1995,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 5,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 99
   },
   {
     "Name": "Wire_Fox_Terrier",
@@ -1915,7 +2015,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 4,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 100
   },
   {
     "Name": "Neapolitan_Mastiff",
@@ -1934,7 +2035,8 @@
     "Stranger_Friendly": 1,
     "Trainability": 4,
     "Watchdog_Ability": 5,
-    "Size": "Giant"
+    "Size": 4,
+    "_id": 101
   },
   {
     "Name": "Borzoi",
@@ -1953,7 +2055,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 2,
     "Watchdog_Ability": 1,
-    "Size": null
+    "Size": -999,
+    "_id": 102
   },
   {
     "Name": "Japanese_Chin",
@@ -1972,7 +2075,8 @@
     "Stranger_Friendly": 5,
     "Trainability": 2,
     "Watchdog_Ability": 3,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 103
   },
   {
     "Name": "Schipperke",
@@ -1991,7 +2095,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 4,
     "Watchdog_Ability": 3,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 104
   },
   {
     "Name": "Belgian_Tervuren",
@@ -2010,7 +2115,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 5,
     "Watchdog_Ability": 5,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 105
   },
   {
     "Name": "Welsh_Terrier",
@@ -2029,7 +2135,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 106
   },
   {
     "Name": "Norwich_Terrier",
@@ -2048,7 +2155,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 4,
     "Watchdog_Ability": 3,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 107
   },
   {
     "Name": "Spinone_Italiano",
@@ -2067,7 +2175,8 @@
     "Stranger_Friendly": 5,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 108
   },
   {
     "Name": "Miniature_Bull_Terrier",
@@ -2086,7 +2195,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 2,
     "Watchdog_Ability": 4,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 109
   },
   {
     "Name": "Toy_Fox_Terrier",
@@ -2105,7 +2215,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 5,
     "Watchdog_Ability": 3,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 110
   },
   {
     "Name": "Silky_Terrier",
@@ -2124,7 +2235,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 4,
     "Watchdog_Ability": 3,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 111
   },
   {
     "Name": "Afghan_Hound",
@@ -2143,7 +2255,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 2,
     "Watchdog_Ability": 1,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 112
   },
   {
     "Name": "Pointer",
@@ -2162,7 +2275,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 4,
     "Watchdog_Ability": 4,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 113
   },
   {
     "Name": "Gordon_Setter",
@@ -2181,7 +2295,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 4,
     "Watchdog_Ability": 4,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 114
   },
   {
     "Name": "Irish_Terrier",
@@ -2200,7 +2315,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 115
   },
   {
     "Name": "Parson_Russell_Terrier",
@@ -2219,7 +2335,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 116
   },
   {
     "Name": "Black_Russian_Terrier",
@@ -2238,7 +2355,8 @@
     "Stranger_Friendly": 1,
     "Trainability": 4,
     "Watchdog_Ability": 5,
-    "Size": null
+    "Size": -999,
+    "_id": 117
   },
   {
     "Name": "Tibetan_Spaniel",
@@ -2257,7 +2375,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 4,
     "Watchdog_Ability": 4,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 118
   },
   {
     "Name": "Saluki",
@@ -2276,7 +2395,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 2,
     "Watchdog_Ability": 3,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 119
   },
   {
     "Name": "Boerboel",
@@ -2295,7 +2415,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 4,
     "Watchdog_Ability": 5,
-    "Size": "Giant"
+    "Size": 4,
+    "_id": 120
   },
   {
     "Name": "American_Eskimo_Dog",
@@ -2314,7 +2435,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": null
+    "Size": -999,
+    "_id": 121
   },
   {
     "Name": "Smooth_Fox_Terrier",
@@ -2333,7 +2455,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 4,
     "Watchdog_Ability": 3,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 122
   },
   {
     "Name": "Beauceron",
@@ -2352,7 +2475,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 5,
     "Watchdog_Ability": 5,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 123
   },
   {
     "Name": "Belgian_Sheepdog",
@@ -2371,7 +2495,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 4,
     "Watchdog_Ability": 5,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 124
   },
   {
     "Name": "Norfolk_Terrier",
@@ -2390,7 +2515,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 125
   },
   {
     "Name": "Bearded_Collie",
@@ -2409,7 +2535,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 4,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 126
   },
   {
     "Name": "Welsh_Springer_Spaniel",
@@ -2428,7 +2555,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 4,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 127
   },
   {
     "Name": "Kerry_Blue_Terrier",
@@ -2447,7 +2575,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 4,
     "Watchdog_Ability": 5,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 128
   },
   {
     "Name": "Bluetick_Coonhound",
@@ -2466,7 +2595,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 4,
     "Watchdog_Ability": 1,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 129
   },
   {
     "Name": "Tibetan_Mastiff",
@@ -2485,7 +2615,8 @@
     "Stranger_Friendly": 1,
     "Trainability": 4,
     "Watchdog_Ability": 3,
-    "Size": "Giant"
+    "Size": 4,
+    "_id": 130
   },
   {
     "Name": "Briard",
@@ -2504,7 +2635,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 4,
     "Watchdog_Ability": 5,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 131
   },
   {
     "Name": "Manchester_Terrier",
@@ -2523,7 +2655,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 4,
     "Watchdog_Ability": 3,
-    "Size": null
+    "Size": -999,
+    "_id": 132
   },
   {
     "Name": "German_Pinscher",
@@ -2542,7 +2675,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 4,
     "Watchdog_Ability": 5,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 133
   },
   {
     "Name": "English_Toy_Spaniel",
@@ -2561,7 +2695,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 134
   },
   {
     "Name": "American_Hairless_Terrier",
@@ -2580,7 +2715,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 4,
     "Watchdog_Ability": 3,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 135
   },
   {
     "Name": "Treeing_Walker_Coonhound",
@@ -2599,7 +2735,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 136
   },
   {
     "Name": "Black_and_Tan_Coonhound",
@@ -2618,7 +2755,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 4,
     "Watchdog_Ability": 3,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 137
   },
   {
     "Name": "Australian_Terrier",
@@ -2637,7 +2775,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 4,
     "Watchdog_Ability": 3,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 138
   },
   {
     "Name": "Xoloitzcuintli",
@@ -2656,7 +2795,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 139
   },
   {
     "Name": "Bedlington_Terrier",
@@ -2675,7 +2815,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 4,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 140
   },
   {
     "Name": "Redbone_Coonhound",
@@ -2694,7 +2835,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 3,
     "Watchdog_Ability": 1,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 141
   },
   {
     "Name": "Clumber_Spaniel",
@@ -2713,7 +2855,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 4,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 142
   },
   {
     "Name": "Berger_Picard",
@@ -2732,7 +2875,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": null
+    "Size": -999,
+    "_id": 143
   },
   {
     "Name": "Greyhound",
@@ -2751,7 +2895,8 @@
     "Stranger_Friendly": 5,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": null
+    "Size": -999,
+    "_id": 144
   },
   {
     "Name": "Irish_Red_and_White_Setter",
@@ -2770,7 +2915,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 4,
     "Watchdog_Ability": 3,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 145
   },
   {
     "Name": "Lakeland_Terrier",
@@ -2789,7 +2935,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 146
   },
   {
     "Name": "Affenpinscher",
@@ -2808,7 +2955,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 4,
     "Watchdog_Ability": 5,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 147
   },
   {
     "Name": "Field_Spaniel",
@@ -2827,7 +2975,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 5,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 148
   },
   {
     "Name": "Kooikerhondje",
@@ -2846,7 +2995,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 1,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 149
   },
   {
     "Name": "Pumi",
@@ -2865,7 +3015,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 4,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 150
   },
   {
     "Name": "Ibizan_Hound",
@@ -2884,7 +3035,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 4,
     "Watchdog_Ability": 3,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 151
   },
   {
     "Name": "Spanish_Water_Dog",
@@ -2903,7 +3055,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 4,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 152
   },
   {
     "Name": "Portuguese_Podengo_Pequeno",
@@ -2922,7 +3075,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 153
   },
   {
     "Name": "Icelandic_Sheepdog",
@@ -2941,7 +3095,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 154
   },
   {
     "Name": "Petit_Basset_Griffon_Vendeen",
@@ -2960,7 +3115,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 2,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 155
   },
   {
     "Name": "Entlebucher_Mountain_Dog",
@@ -2979,7 +3135,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 156
   },
   {
     "Name": "Scottish_Deerhound",
@@ -2998,7 +3155,8 @@
     "Stranger_Friendly": 5,
     "Trainability": 4,
     "Watchdog_Ability": 1,
-    "Size": "Giant"
+    "Size": 4,
+    "_id": 157
   },
   {
     "Name": "Irish_Water_Spaniel",
@@ -3017,7 +3175,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 4,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 158
   },
   {
     "Name": "Puli",
@@ -3036,7 +3195,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 159
   },
   {
     "Name": "Finnish_Lapphund",
@@ -3055,7 +3215,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 160
   },
   {
     "Name": "Curly-Coated_Retriever",
@@ -3074,7 +3235,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 4,
     "Watchdog_Ability": 3,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 161
   },
   {
     "Name": "Kuvasz",
@@ -3093,7 +3255,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 4,
     "Watchdog_Ability": 5,
-    "Size": "Giant"
+    "Size": 4,
+    "_id": 162
   },
   {
     "Name": "Sealyham_Terrier",
@@ -3112,7 +3275,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 2,
     "Watchdog_Ability": 3,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 163
   },
   {
     "Name": "Norwegian_Buhund",
@@ -3131,7 +3295,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 164
   },
   {
     "Name": "American_Water_Spaniel",
@@ -3150,7 +3315,8 @@
     "Stranger_Friendly": 5,
     "Trainability": 4,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 165
   },
   {
     "Name": "Wirehaired_Vizsla",
@@ -3169,7 +3335,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 5,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 166
   },
   {
     "Name": "Lowchen",
@@ -3188,7 +3355,8 @@
     "Stranger_Friendly": 5,
     "Trainability": 4,
     "Watchdog_Ability": 3,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 167
   },
   {
     "Name": "Swedish_Vallhund",
@@ -3207,7 +3375,8 @@
     "Stranger_Friendly": 5,
     "Trainability": 4,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 168
   },
   {
     "Name": "Polish_Lowland_Sheepdog",
@@ -3226,7 +3395,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 1,
     "Watchdog_Ability": 5,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 169
   },
   {
     "Name": "Plott_Hound",
@@ -3245,7 +3415,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 4,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 170
   },
   {
     "Name": "Pharaoh_Hound",
@@ -3264,7 +3435,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 3,
     "Watchdog_Ability": 2,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 171
   },
   {
     "Name": "Komondor",
@@ -3283,7 +3455,8 @@
     "Stranger_Friendly": 1,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": null
+    "Size": -999,
+    "_id": 172
   },
   {
     "Name": "Glen_of_Imaal_Terrier",
@@ -3302,7 +3475,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 4,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 173
   },
   {
     "Name": "American_English_Coonhound",
@@ -3321,7 +3495,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 174
   },
   {
     "Name": "Dandie_Dinmont_Terrier",
@@ -3340,7 +3515,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 175
   },
   {
     "Name": "Grand_Basset_Griffon_Vendeen",
@@ -3359,7 +3535,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 176
   },
   {
     "Name": "Skye_Terrier",
@@ -3378,7 +3555,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 2,
     "Watchdog_Ability": 5,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 177
   },
   {
     "Name": "Canaan_Dog",
@@ -3397,7 +3575,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 178
   },
   {
     "Name": "Sussex_Spaniel",
@@ -3416,7 +3595,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 4,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 179
   },
   {
     "Name": "Pyrenean_Shepherd",
@@ -3435,7 +3615,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 4,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 180
   },
   {
     "Name": "Otterhound",
@@ -3454,7 +3635,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 2,
     "Watchdog_Ability": 2,
-    "Size": null
+    "Size": -999,
+    "_id": 181
   },
   {
     "Name": "Cirneco_dell\u2019Etna",
@@ -3473,7 +3655,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 4,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 182
   },
   {
     "Name": "Finnish_Spitz",
@@ -3492,7 +3675,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 183
   },
   {
     "Name": "Cesky_Terrier",
@@ -3511,7 +3695,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 1,
     "Watchdog_Ability": 4,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 184
   },
   {
     "Name": "American_Foxhound",
@@ -3530,7 +3715,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 2,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 185
   },
   {
     "Name": "Bergamasco",
@@ -3549,7 +3735,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 2,
     "Watchdog_Ability": 4,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 186
   },
   {
     "Name": "English_Foxhound",
@@ -3568,7 +3755,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 4,
     "Watchdog_Ability": 2,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 187
   },
   {
     "Name": "Harrier",
@@ -3587,7 +3775,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 4,
     "Watchdog_Ability": 2,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 188
   },
   {
     "Name": "Chinook",
@@ -3606,7 +3795,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 4,
     "Watchdog_Ability": 4,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 189
   },
   {
     "Name": "Norwegian_Lundehund",
@@ -3625,7 +3815,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 190
   },
   {
     "Name": "Sloughi",
@@ -3644,7 +3835,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 191
   },
   {
     "Name": "Miniature_Poodle",
@@ -3663,7 +3855,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 5,
     "Watchdog_Ability": 4,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 192
   },
   {
     "Name": "Toy_Poodle",
@@ -3682,7 +3875,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 5,
     "Watchdog_Ability": 4,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 193
   },
   {
     "Name": "Grand_Bleu_de_Gascogne",
@@ -3701,7 +3895,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": null
+    "Size": -999,
+    "_id": 194
   },
   {
     "Name": "Kangal_Dog",
@@ -3720,7 +3915,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": "Giant"
+    "Size": 4,
+    "_id": 195
   },
   {
     "Name": "Spanish_Greyhound",
@@ -3739,7 +3935,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 196
   },
   {
     "Name": "Africanis",
@@ -3758,7 +3955,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 4,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 197
   },
   {
     "Name": "Aidi",
@@ -3777,7 +3975,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 198
   },
   {
     "Name": "Akbash_Dog",
@@ -3796,7 +3995,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": null
+    "Size": -999,
+    "_id": 199
   },
   {
     "Name": "Alano_Espanol",
@@ -3815,7 +4015,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 200
   },
   {
     "Name": "Alapaha_Blue_Blood_Bulldog",
@@ -3834,7 +4035,8 @@
     "Stranger_Friendly": 1,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 201
   },
   {
     "Name": "Alaskan_Klee_Kai",
@@ -3853,7 +4055,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 202
   },
   {
     "Name": "American_Pit_Bull_Terrier",
@@ -3872,7 +4075,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 203
   },
   {
     "Name": "American_Staghound",
@@ -3891,7 +4095,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 2,
     "Watchdog_Ability": 3,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 204
   },
   {
     "Name": "American_White_Shepherd",
@@ -3910,7 +4115,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 4,
     "Watchdog_Ability": 4,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 205
   },
   {
     "Name": "Appenzeller_Sennenhund",
@@ -3929,7 +4135,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 4,
     "Watchdog_Ability": 5,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 206
   },
   {
     "Name": "Dogo_Argentino",
@@ -3948,7 +4155,8 @@
     "Stranger_Friendly": 1,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 207
   },
   {
     "Name": "Ariege_Pointer",
@@ -3967,7 +4175,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 208
   },
   {
     "Name": "Ariegeois",
@@ -3986,7 +4195,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 209
   },
   {
     "Name": "Australian_Bulldog",
@@ -4005,7 +4215,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 210
   },
   {
     "Name": "Australian_Kelpie",
@@ -4024,7 +4235,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 5,
     "Watchdog_Ability": 5,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 211
   },
   {
     "Name": "Australian_Stumpy_Tail_Cattle_Dog",
@@ -4043,7 +4255,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 5,
     "Watchdog_Ability": 5,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 212
   },
   {
     "Name": "Austrian_Black_and_Tan_Hound",
@@ -4062,7 +4275,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 2,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 213
   },
   {
     "Name": "Austrian_Pinscher",
@@ -4081,7 +4295,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 214
   },
   {
     "Name": "Azawakh",
@@ -4100,7 +4315,8 @@
     "Stranger_Friendly": 1,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 215
   },
   {
     "Name": "Barbet",
@@ -4119,7 +4335,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 4,
     "Watchdog_Ability": 3,
-    "Size": null
+    "Size": -999,
+    "_id": 216
   },
   {
     "Name": "Basset_Bleu_de_Gascogne",
@@ -4138,7 +4355,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 217
   },
   {
     "Name": "Basset_Fauve_de_Bretagne",
@@ -4157,7 +4375,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 218
   },
   {
     "Name": "Bavarian_Mountain_Hound",
@@ -4176,7 +4395,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 219
   },
   {
     "Name": "Belgian_Shepherd_Laekenois",
@@ -4195,7 +4415,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 5,
     "Watchdog_Ability": 5,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 220
   },
   {
     "Name": "Black_Mouth_Cur",
@@ -4214,7 +4435,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": null
+    "Size": -999,
+    "_id": 221
   },
   {
     "Name": "Black_Norwegian_Elkhound",
@@ -4233,7 +4455,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 222
   },
   {
     "Name": "Blue_Lacy",
@@ -4252,7 +4475,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 223
   },
   {
     "Name": "Blue_Picardy_Spaniel",
@@ -4271,7 +4495,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": null
+    "Size": -999,
+    "_id": 224
   },
   {
     "Name": "Bohemian_Shepherd",
@@ -4290,7 +4515,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 225
   },
   {
     "Name": "Bouvier_des_Ardennes",
@@ -4309,7 +4535,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": null
+    "Size": -999,
+    "_id": 226
   },
   {
     "Name": "Bracco_Italiano",
@@ -4328,7 +4555,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 227
   },
   {
     "Name": "Braque_du_Bourbonnais",
@@ -4347,7 +4575,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 228
   },
   {
     "Name": "Brazilian_Terrier",
@@ -4366,7 +4595,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 229
   },
   {
     "Name": "Briquet_Griffon_Vendeen",
@@ -4385,7 +4615,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 230
   },
   {
     "Name": "Bukovina_Sheepdog",
@@ -4404,7 +4635,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": null
+    "Size": -999,
+    "_id": 231
   },
   {
     "Name": "Bulgarian_Shepherd_Dog",
@@ -4423,7 +4655,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": null
+    "Size": -999,
+    "_id": 232
   },
   {
     "Name": "C\u00e3o_da_Serra_de_Aires",
@@ -4442,7 +4675,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 233
   },
   {
     "Name": "Canadian_Eskimo_Dog",
@@ -4461,7 +4695,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 234
   },
   {
     "Name": "Caravan_Hound",
@@ -4480,7 +4715,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 235
   },
   {
     "Name": "Carolina_Dog",
@@ -4499,7 +4735,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 236
   },
   {
     "Name": "Carpathian_Sheepdog",
@@ -4518,7 +4755,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 237
   },
   {
     "Name": "Catahoula_Bulldog",
@@ -4537,7 +4775,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 238
   },
   {
     "Name": "Catahoula_Leopard_Dog",
@@ -4556,7 +4795,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 239
   },
   {
     "Name": "Catalan_Sheepdog",
@@ -4575,7 +4815,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 5,
     "Watchdog_Ability": 5,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 240
   },
   {
     "Name": "Caucasian_Ovcharka",
@@ -4594,7 +4835,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 2,
     "Watchdog_Ability": 5,
-    "Size": "Giant"
+    "Size": 4,
+    "_id": 241
   },
   {
     "Name": "Central_Asian_Ovtcharka",
@@ -4613,7 +4855,8 @@
     "Stranger_Friendly": 1,
     "Trainability": 1,
     "Watchdog_Ability": 5,
-    "Size": null
+    "Size": -999,
+    "_id": 242
   },
   {
     "Name": "Cesky_Fousek",
@@ -4632,7 +4875,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": null
+    "Size": -999,
+    "_id": 243
   },
   {
     "Name": "Chart_Polski",
@@ -4651,7 +4895,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 244
   },
   {
     "Name": "Cockapoo",
@@ -4670,7 +4915,8 @@
     "Stranger_Friendly": 5,
     "Trainability": 4,
     "Watchdog_Ability": 3,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 245
   },
   {
     "Name": "Croatian_Sheepdog",
@@ -4689,7 +4935,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 4,
     "Watchdog_Ability": 5,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 246
   },
   {
     "Name": "Czechoslovakian_Wolfdog",
@@ -4708,7 +4955,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 247
   },
   {
     "Name": "Danish-Swedish_Farmdog",
@@ -4727,7 +4975,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 248
   },
   {
     "Name": "Deutsche_Bracke",
@@ -4746,7 +4995,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 249
   },
   {
     "Name": "Dingo",
@@ -4765,7 +5015,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 250
   },
   {
     "Name": "Drentse_Patrijshond",
@@ -4784,7 +5035,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": null
+    "Size": -999,
+    "_id": 251
   },
   {
     "Name": "Drever",
@@ -4803,7 +5055,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 2,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 252
   },
   {
     "Name": "Dunker",
@@ -4822,7 +5075,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 253
   },
   {
     "Name": "Dutch_Shepherd_Dog",
@@ -4841,7 +5095,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 4,
     "Watchdog_Ability": 5,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 254
   },
   {
     "Name": "Dutch_Smoushond",
@@ -4860,7 +5115,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 255
   },
   {
     "Name": "East_Siberian_Laika",
@@ -4879,7 +5135,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 256
   },
   {
     "Name": "East-European_Shepherd",
@@ -4898,7 +5155,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": null
+    "Size": -999,
+    "_id": 257
   },
   {
     "Name": "English_Shepherd",
@@ -4917,7 +5175,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 4,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 258
   },
   {
     "Name": "Eurasier",
@@ -4936,7 +5195,8 @@
     "Stranger_Friendly": 1,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 259
   },
   {
     "Name": "Fila_Brasileiro",
@@ -4955,7 +5215,8 @@
     "Stranger_Friendly": 1,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": null
+    "Size": -999,
+    "_id": 260
   },
   {
     "Name": "Finnish_Hound",
@@ -4974,7 +5235,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 261
   },
   {
     "Name": "French_Spaniel",
@@ -4993,7 +5255,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 1,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 262
   },
   {
     "Name": "Francais_Blanc_et_Noir",
@@ -5012,7 +5275,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 263
   },
   {
     "Name": "Jagdterrier",
@@ -5031,7 +5295,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 264
   },
   {
     "Name": "German_Longhaired_Pointer",
@@ -5050,7 +5315,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 265
   },
   {
     "Name": "Goldendoodle",
@@ -5069,7 +5335,8 @@
     "Stranger_Friendly": 5,
     "Trainability": 5,
     "Watchdog_Ability": 3,
-    "Size": null
+    "Size": -999,
+    "_id": 266
   },
   {
     "Name": "Polish_Hunting_Dog",
@@ -5088,7 +5355,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": null
+    "Size": -999,
+    "_id": 267
   },
   {
     "Name": "Greenland_Dog",
@@ -5107,7 +5375,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 0,
     "Watchdog_Ability": 3,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 268
   },
   {
     "Name": "Griffon_bleu_de_Gascogne",
@@ -5126,7 +5395,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 0,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 269
   },
   {
     "Name": "Large_Munsterlander",
@@ -5145,7 +5415,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 5,
     "Watchdog_Ability": 3,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 270
   },
   {
     "Name": "Hamilton_Hound",
@@ -5164,7 +5435,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 271
   },
   {
     "Name": "Hokkaido_Dog",
@@ -5183,7 +5455,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 272
   },
   {
     "Name": "Hovawart",
@@ -5202,7 +5475,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 4,
     "Watchdog_Ability": 5,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 273
   },
   {
     "Name": "J\u00e4mthund",
@@ -5221,7 +5495,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 274
   },
   {
     "Name": "Japanese_Spitz",
@@ -5240,7 +5515,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 275
   },
   {
     "Name": "Japanese_Terrier",
@@ -5259,7 +5535,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 276
   },
   {
     "Name": "Korean_Jindo",
@@ -5278,7 +5555,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 1,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 277
   },
   {
     "Name": "Karelian_Bear_Dog",
@@ -5297,7 +5575,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 1,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 278
   },
   {
     "Name": "Kishu_Ken",
@@ -5316,7 +5595,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 1,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 279
   },
   {
     "Name": "Koolie",
@@ -5335,7 +5615,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": null
+    "Size": -999,
+    "_id": 280
   },
   {
     "Name": "Kromfohrlander",
@@ -5354,7 +5635,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 4,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 281
   },
   {
     "Name": "Lancashire_Heeler",
@@ -5373,7 +5655,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 2,
     "Watchdog_Ability": 3,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 282
   },
   {
     "Name": "Landseer",
@@ -5392,7 +5675,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Giant"
+    "Size": 4,
+    "_id": 283
   },
   {
     "Name": "Lapponian_Herder",
@@ -5411,7 +5695,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 284
   },
   {
     "Name": "McNab",
@@ -5430,7 +5715,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 285
   },
   {
     "Name": "Miniature_Bulldog",
@@ -5449,7 +5735,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 2,
     "Watchdog_Ability": 2,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 286
   },
   {
     "Name": "Mudi",
@@ -5468,7 +5755,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 4,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 287
   },
   {
     "Name": "Small_Munsterlander",
@@ -5487,7 +5775,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 5,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 288
   },
   {
     "Name": "New_Guinea_Singing_Dog",
@@ -5506,7 +5795,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": null
+    "Size": -999,
+    "_id": 289
   },
   {
     "Name": "Norrbottenspets",
@@ -5525,7 +5815,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 290
   },
   {
     "Name": "Northern_Inuit_Dog",
@@ -5544,7 +5835,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 291
   },
   {
     "Name": "Olde_English_Bulldogge",
@@ -5563,7 +5855,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 2,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 292
   },
   {
     "Name": "Pakistani_Mastiff",
@@ -5582,7 +5875,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 4,
     "Watchdog_Ability": 5,
-    "Size": "Giant"
+    "Size": 4,
+    "_id": 293
   },
   {
     "Name": "Patterdale_Terrier",
@@ -5601,7 +5895,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 1,
     "Watchdog_Ability": 3,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 294
   },
   {
     "Name": "Perro_de_Presa_Canario",
@@ -5620,7 +5915,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 295
   },
   {
     "Name": "Perro_de_Presa_Mallorquin",
@@ -5639,7 +5935,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 296
   },
   {
     "Name": "Peruvian_Inca_Orchid",
@@ -5658,7 +5955,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 5,
     "Watchdog_Ability": 4,
-    "Size": null
+    "Size": -999,
+    "_id": 297
   },
   {
     "Name": "Picardy_Spaniel",
@@ -5677,7 +5975,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 298
   },
   {
     "Name": "Plummer_Terrier",
@@ -5696,7 +5995,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 3,
     "Watchdog_Ability": 2,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 299
   },
   {
     "Name": "Portuguese_Pointer",
@@ -5715,7 +6015,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 300
   },
   {
     "Name": "Prazsky_Krysarik",
@@ -5734,7 +6035,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 1,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 301
   },
   {
     "Name": "Pudelpointer",
@@ -5753,7 +6055,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 302
   },
   {
     "Name": "Rafeiro_do_Alentejo",
@@ -5772,7 +6075,8 @@
     "Stranger_Friendly": 1,
     "Trainability": 1,
     "Watchdog_Ability": 5,
-    "Size": null
+    "Size": -999,
+    "_id": 303
   },
   {
     "Name": "Rajapalayam",
@@ -5791,7 +6095,8 @@
     "Stranger_Friendly": 1,
     "Trainability": 2,
     "Watchdog_Ability": 5,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 304
   },
   {
     "Name": "Russian_Spaniel",
@@ -5810,7 +6115,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 305
   },
   {
     "Name": "Russian_Toy",
@@ -5829,7 +6135,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 306
   },
   {
     "Name": "Saarloos_wolfdog",
@@ -5848,7 +6155,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 307
   },
   {
     "Name": "Sapsali",
@@ -5867,7 +6175,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": null
+    "Size": -999,
+    "_id": 308
   },
   {
     "Name": "Sarplaninac",
@@ -5886,7 +6195,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 309
   },
   {
     "Name": "Schapendoes",
@@ -5905,7 +6215,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 310
   },
   {
     "Name": "Seppala_Siberian_Sleddog",
@@ -5924,7 +6235,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 4,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 311
   },
   {
     "Name": "Shikoku_dog",
@@ -5943,7 +6255,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 312
   },
   {
     "Name": "Shiloh_Shepherd_dog",
@@ -5962,7 +6275,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": "Giant"
+    "Size": 4,
+    "_id": 313
   },
   {
     "Name": "Silken_Windhound",
@@ -5981,7 +6295,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 2,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 314
   },
   {
     "Name": "Smaland_Hound",
@@ -6000,7 +6315,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 315
   },
   {
     "Name": "South_Russian_Ovcharka",
@@ -6019,7 +6335,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 316
   },
   {
     "Name": "Pont-Audemer_Spaniel",
@@ -6038,7 +6355,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 317
   },
   {
     "Name": "Spanish_Mastiff",
@@ -6057,7 +6375,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Giant"
+    "Size": 4,
+    "_id": 318
   },
   {
     "Name": "Serbian_Hound",
@@ -6076,7 +6395,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 319
   },
   {
     "Name": "Swedish_Lapphund",
@@ -6095,7 +6415,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 320
   },
   {
     "Name": "Tamaskan_Dog",
@@ -6114,7 +6435,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 321
   },
   {
     "Name": "Thai_Bangkaew_Dog",
@@ -6133,7 +6455,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 322
   },
   {
     "Name": "Thai_Ridgeback",
@@ -6152,7 +6475,8 @@
     "Stranger_Friendly": 1,
     "Trainability": 2,
     "Watchdog_Ability": 2,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 323
   },
   {
     "Name": "Tornjak",
@@ -6171,7 +6495,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 324
   },
   {
     "Name": "Tosa",
@@ -6190,7 +6515,8 @@
     "Stranger_Friendly": 1,
     "Trainability": 2,
     "Watchdog_Ability": 5,
-    "Size": null
+    "Size": -999,
+    "_id": 325
   },
   {
     "Name": "Karst_Shepherd",
@@ -6209,7 +6535,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": null
+    "Size": -999,
+    "_id": 326
   },
   {
     "Name": "Transylvanian_Hound",
@@ -6228,7 +6555,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": null
+    "Size": -999,
+    "_id": 327
   },
   {
     "Name": "Volpino_Italiano",
@@ -6247,7 +6575,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 328
   },
   {
     "Name": "West_Siberian_Laika",
@@ -6266,7 +6595,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 4,
     "Watchdog_Ability": 4,
-    "Size": null
+    "Size": -999,
+    "_id": 329
   },
   {
     "Name": "Wetterhoun",
@@ -6285,7 +6615,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 330
   },
   {
     "Name": "Alopekis",
@@ -6304,7 +6635,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 5,
     "Watchdog_Ability": 4,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 331
   },
   {
     "Name": "American_Bulldog",
@@ -6323,7 +6655,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 5,
     "Watchdog_Ability": 5,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 332
   },
   {
     "Name": "Andalusian_Hound",
@@ -6342,7 +6675,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": null
+    "Size": -999,
+    "_id": 333
   },
   {
     "Name": "Basset_Artesien_Normand",
@@ -6361,7 +6695,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 334
   },
   {
     "Name": "Beagle-Harrier",
@@ -6380,7 +6715,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 335
   },
   {
     "Name": "Beaglier",
@@ -6399,7 +6735,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 336
   },
   {
     "Name": "Bolognese_dog",
@@ -6418,7 +6755,8 @@
     "Stranger_Friendly": 5,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 337
   },
   {
     "Name": "Bull_Arab",
@@ -6437,7 +6775,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 338
   },
   {
     "Name": "Mountain_Feist",
@@ -6456,7 +6795,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": null
+    "Size": -999,
+    "_id": 339
   },
   {
     "Name": "Texas_Heeler",
@@ -6475,7 +6815,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 340
   },
   {
     "Name": "Chippiparai",
@@ -6494,7 +6835,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 341
   },
   {
     "Name": "Chizer",
@@ -6513,7 +6855,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 342
   },
   {
     "Name": "Cotonese",
@@ -6532,7 +6875,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 343
   },
   {
     "Name": "Taco_Terrier",
@@ -6551,7 +6895,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 344
   },
   {
     "Name": "Cairmal",
@@ -6570,7 +6915,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 345
   },
   {
     "Name": "King_Shepherd",
@@ -6589,7 +6935,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 1,
     "Watchdog_Ability": 5,
-    "Size": null
+    "Size": -999,
+    "_id": 346
   },
   {
     "Name": "Kyi-Leo",
@@ -6608,7 +6955,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 5,
     "Watchdog_Ability": 3,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 347
   },
   {
     "Name": "Majestic_Tree_Hound",
@@ -6627,7 +6975,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": null
+    "Size": -999,
+    "_id": 348
   },
   {
     "Name": "Chorkie",
@@ -6646,7 +6995,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 349
   },
   {
     "Name": "Cockalier",
@@ -6665,7 +7015,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 350
   },
   {
     "Name": "Dorgi",
@@ -6684,7 +7035,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 351
   },
   {
     "Name": "Dorkie",
@@ -6703,7 +7055,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 352
   },
   {
     "Name": "Double_Doodle",
@@ -6722,7 +7075,8 @@
     "Stranger_Friendly": 0,
     "Trainability": 0,
     "Watchdog_Ability": 0,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 353
   },
   {
     "Name": "Maremma_Sheepdog",
@@ -6741,7 +7095,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": null
+    "Size": -999,
+    "_id": 354
   },
   {
     "Name": "Broholmer",
@@ -6760,7 +7115,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": "Giant"
+    "Size": 4,
+    "_id": 355
   },
   {
     "Name": "Biewer_Terrier",
@@ -6779,7 +7135,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 356
   },
   {
     "Name": "Pyrenean_Mastiff",
@@ -6798,7 +7155,8 @@
     "Stranger_Friendly": 1,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": "Giant"
+    "Size": 4,
+    "_id": 357
   },
   {
     "Name": "Romanian_Mioritic_Shepherd_Dog",
@@ -6812,7 +7170,8 @@
     "Grooming": 2,
     "Health_Issues": 2,
     "Intelligence": 3,
-    "Size": "Giant"
+    "Size": 4,
+    "_id": 358
   },
   {
     "Name": "American_Mastiff",
@@ -6826,7 +7185,8 @@
     "Grooming": 0,
     "Health_Issues": 0,
     "Intelligence": 0,
-    "Size": "Giant"
+    "Size": 4,
+    "_id": 359
   },
   {
     "Name": "Lucas_Terrier",
@@ -6845,7 +7205,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 4,
     "Watchdog_Ability": 3,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 360
   },
   {
     "Name": "Lurcher",
@@ -6864,7 +7225,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 4,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 361
   },
   {
     "Name": "Mal-Shi",
@@ -6883,7 +7245,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 362
   },
   {
     "Name": "Shichon",
@@ -6902,7 +7265,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 363
   },
   {
     "Name": "Slovensky_Cuvac",
@@ -6921,7 +7285,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 364
   },
   {
     "Name": "Moscow_Watchdog",
@@ -6940,7 +7305,8 @@
     "Stranger_Friendly": 3,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": null
+    "Size": -999,
+    "_id": 365
   },
   {
     "Name": "Stabyhoun",
@@ -6959,7 +7325,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 366
   },
   {
     "Name": "Polish_Tatra_Sheepdog",
@@ -6978,7 +7345,8 @@
     "Stranger_Friendly": 2,
     "Trainability": 3,
     "Watchdog_Ability": 5,
-    "Size": "Large"
+    "Size": 3,
+    "_id": 367
   },
   {
     "Name": "Puggle",
@@ -6997,7 +7365,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 2,
     "Watchdog_Ability": 3,
-    "Size": "Small"
+    "Size": 1,
+    "_id": 368
   },
   {
     "Name": "Russian_Tsvetnaya_Bolonka",
@@ -7016,7 +7385,8 @@
     "Stranger_Friendly": 4,
     "Trainability": 3,
     "Watchdog_Ability": 3,
-    "Size": "Smallest"
+    "Size": 0,
+    "_id": 369
   },
   {
     "Name": "American_Husky",
@@ -7030,7 +7400,8 @@
     "Grooming": 3,
     "Health_Issues": 2,
     "Intelligence": 3,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 370
   },
   {
     "Name": "Mountain_Cur",
@@ -7044,6 +7415,7 @@
     "Grooming": 1,
     "Health_Issues": 3,
     "Intelligence": 2,
-    "Size": "Medium"
+    "Size": 2,
+    "_id": 371
   }
 ]

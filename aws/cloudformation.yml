@@ -86,8 +86,8 @@ Resources:
   ApiGateway:
     Type: "AWS::ApiGateway::RestApi"
     Properties:
-      Name: "my-api"
-      Description: "My API"
+      Name: "core-api"
+      Description: "Core API"
 
   ApiGatewayRootMethod:
     Type: "AWS::ApiGateway::Method"
@@ -175,7 +175,7 @@ Resources:
       RetentionInDays: 90
 
   # DynamoDB
-  DynamoDBTable:
+  DynamoDBTableDog:
     Type: AWS::DynamoDB::Table
     Properties:
       AttributeDefinitions:
@@ -186,9 +186,24 @@ Resources:
           KeyType: "HASH"
 
       ProvisionedThroughput:
-        ReadCapacityUnits: 5
-        WriteCapacityUnits: 5
-      TableName: "dog_table_test"
+        ReadCapacityUnits: 1
+        WriteCapacityUnits: 1
+      TableName: "dog_table_test_melatonin_2357111317"
+
+  DynamoDBTableUser:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      AttributeDefinitions:
+        - AttributeName: "_id"
+          AttributeType: "N"
+      KeySchema:
+        - AttributeName: "_id"
+          KeyType: "HASH"
+
+      ProvisionedThroughput:
+        ReadCapacityUnits: 1
+        WriteCapacityUnits: 1
+      TableName: "user_table_test_melatonin_2357111317"
 
   # ---
 
