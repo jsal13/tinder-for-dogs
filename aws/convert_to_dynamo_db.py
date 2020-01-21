@@ -15,7 +15,8 @@ def convert_json(
             if k == "Name":
                 new_record["PutRequest"]["Item"]["Name"] = {"S": v}
             else:
-                new_record["PutRequest"]["Item"][k] = {"N": v}
+                # Still needs to be parsed into a string...
+                new_record["PutRequest"]["Item"][k] = {"N": str(v)}
         result[table_name].append(new_record)
 
     new_file_name = re.sub(

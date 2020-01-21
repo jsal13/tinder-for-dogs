@@ -1,6 +1,6 @@
 [
   {
-    "id_": 1,
+    "_id": 1,
     "Name": "Billy Krystal",
     "Adaptability": 3,
     "Apartment_Friendly": 3,
@@ -17,10 +17,10 @@
     "Stranger_Friendly": 5,
     "Trainability": 5,
     "Watchdog_Ability": 3,
-    "Size": "Large"
+    "Size": 3
   },
   {
-    "id_": 2,
+    "_id": 2,
     "Name": "Mr. Labrador Retriever",
     "Adaptability": 5,
     "Apartment_Friendly": 5,
@@ -37,10 +37,10 @@
     "Stranger_Friendly": 5,
     "Trainability": 5,
     "Watchdog_Ability": 3,
-    "Size": "Medium"
+    "Size": 2
   },
   {
-    "id_": 3,
+    "_id": 3,
     "Name": "Mr. Labrador Retriever Clone",
     "Adaptability": 5,
     "Apartment_Friendly": 5,
@@ -57,6 +57,6 @@
     "Stranger_Friendly": 5,
     "Trainability": 5,
     "Watchdog_Ability": 3,
-    "Size": "Large"
+    "Size": 3
   }
 ]
